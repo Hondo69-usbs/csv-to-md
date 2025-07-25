@@ -1,4 +1,2 @@
-Series,Season,Watch_Time,Status,Current_Episode,Rating
-How I met your Mother,2,20 hours,unfinished,2,good
-The Big Bang Theory,4,30 hours,unfinished,12,great
-Black Mirror,2,10 hours,unfinished,1,fantastic
+NAME,ID,DESCR,@TYPE,DATE_PUBLISHED,IS_BASED_ON_URL,IS_PART_OF,KEYWORDS,STEP
+Measure_Mortise_Cylinder,Measure_Mortise_Cylinder,How to measure the length of a mortise cylinder,HowTo,2025-07-25,http://example.com/great-multiplication-intro.html,https://usbuildersupply.com/flexcodes.html,"measure,mortise cylinder,cam","1. Pickup mortise cylinder,2. Measure cylinder,3. Set it down"
